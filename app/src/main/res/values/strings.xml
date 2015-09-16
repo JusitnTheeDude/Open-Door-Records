@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Open Door Records</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Hello World, ParseXMLDemo!</string>
+    <string name="connection_error">Connection Error</string>
+    <string name="xml_error">xml error</string>
+    <string name="page_title">Page Title</string>
+    <string name="updated">Updated</string>
+    <string name="wifi_connected">Wifi Connected</string>
+    <string name="lost_connection">Lost Connection</string>
+
+</resources>

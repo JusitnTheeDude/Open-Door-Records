@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Open-Door" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Open-Door-Records" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/OpenDoorRecords" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/Open-Door-Records" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/java/com/oppendoorrecords/closeddoor/opendoorrecords" vcs="Git" />
+  </component>
+</project>
